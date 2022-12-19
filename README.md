@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student in cybersecurity and systems at @Epita.  <br>I'm interested in all subjects related to cryptology, cybersecurity and UNIX systems
+I am currently a student in cybersecurity and systems at @Epita.  <br>I'm interested in all subjects related to cryptography, cybersecurity and UNIX systems
 
 
 ## 🌐 Socials:
